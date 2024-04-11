@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IMOE001\\Downloads\\Client ZOHAR 11.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B02CFDE0-60EC-4761-9EB3-A0846482DE96}|Client.csproj|c:\\users\\imoe001\\downloads\\client zohar 11.2\\sharedscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02CFDE0-60EC-4761-9EB3-A0846482DE96}|Client.csproj|solutionrelative:sharedscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02CFDE0-60EC-4761-9EB3-A0846482DE96}|Client.csproj|C:\\Users\\IMOE001\\Downloads\\Client ZOHAR 11.2\\connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02CFDE0-60EC-4761-9EB3-A0846482DE96}|Client.csproj|solutionrelative:connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02CFDE0-60EC-4761-9EB3-A0846482DE96}|Client.csproj|C:\\Users\\IMOE001\\Downloads\\Client ZOHAR 11.2\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02CFDE0-60EC-4761-9EB3-A0846482DE96}|Client.csproj|solutionrelative:connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02CFDE0-60EC-4761-9EB3-A0846482DE96}|Client.csproj|C:\\Users\\IMOE001\\Downloads\\Client ZOHAR 11.2\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02CFDE0-60EC-4761-9EB3-A0846482DE96}|Client.csproj|solutionrelative:crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02CFDE0-60EC-4761-9EB3-A0846482DE96}|Client.csproj|C:\\Users\\IMOE001\\Downloads\\Client ZOHAR 11.2\\user_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02CFDE0-60EC-4761-9EB3-A0846482DE96}|Client.csproj|solutionrelative:user_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02CFDE0-60EC-4761-9EB3-A0846482DE96}|Client.csproj|C:\\Users\\IMOE001\\Downloads\\Client ZOHAR 11.2\\sharedscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B02CFDE0-60EC-4761-9EB3-A0846482DE96}|Client.csproj|solutionrelative:sharedscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02CFDE0-60EC-4761-9EB3-A0846482DE96}|Client.csproj|C:\\Users\\IMOE001\\Downloads\\Client ZOHAR 11.2\\connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B02CFDE0-60EC-4761-9EB3-A0846482DE96}|Client.csproj|solutionrelative:connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02CFDE0-60EC-4761-9EB3-A0846482DE96}|Client.csproj|C:\\Users\\IMOE001\\Downloads\\Client ZOHAR 11.2\\connect.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02CFDE0-60EC-4761-9EB3-A0846482DE96}|Client.csproj|solutionrelative:connect.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02CFDE0-60EC-4761-9EB3-A0846482DE96}|Client.csproj|C:\\Users\\IMOE001\\Downloads\\Client ZOHAR 11.2\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B02CFDE0-60EC-4761-9EB3-A0846482DE96}|Client.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02CFDE0-60EC-4761-9EB3-A0846482DE96}|Client.csproj|C:\\Users\\IMOE001\\Downloads\\Client ZOHAR 11.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02CFDE0-60EC-4761-9EB3-A0846482DE96}|Client.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Downloads\\Client ZOHAR 11.2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Downloads\\Client ZOHAR 11.2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T11:33:46.494Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User_Data.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Downloads\\Client ZOHAR 11.2\\User_Data.cs",
+              "RelativeDocumentMoniker": "User_Data.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Downloads\\Client ZOHAR 11.2\\User_Data.cs",
+              "RelativeToolTip": "User_Data.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T11:33:46.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Connect.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Downloads\\Client ZOHAR 11.2\\Connect.cs",
+              "RelativeDocumentMoniker": "Connect.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Downloads\\Client ZOHAR 11.2\\Connect.cs",
+              "RelativeToolTip": "Connect.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T11:33:46.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "connection.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Downloads\\Client ZOHAR 11.2\\connection.cs",
+              "RelativeDocumentMoniker": "connection.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Downloads\\Client ZOHAR 11.2\\connection.cs",
+              "RelativeToolTip": "connection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T11:33:47.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SharedScreen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Downloads\\Client ZOHAR 11.2\\SharedScreen.cs",
+              "RelativeDocumentMoniker": "SharedScreen.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Downloads\\Client ZOHAR 11.2\\SharedScreen.cs [Design]",
+              "RelativeToolTip": "SharedScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T11:33:47.319Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SharedScreen.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Downloads\\Client ZOHAR 11.2\\SharedScreen.cs",
+              "RelativeDocumentMoniker": "SharedScreen.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Downloads\\Client ZOHAR 11.2\\SharedScreen.cs",
+              "RelativeToolTip": "SharedScreen.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAQwCoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T11:33:47.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Crud.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Downloads\\Client ZOHAR 11.2\\Crud.cs",
+              "RelativeDocumentMoniker": "Crud.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Downloads\\Client ZOHAR 11.2\\Crud.cs",
+              "RelativeToolTip": "Crud.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAACQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T11:33:46.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Connect.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Downloads\\Client ZOHAR 11.2\\Connect.cs",
+              "RelativeDocumentMoniker": "Connect.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Downloads\\Client ZOHAR 11.2\\Connect.cs [Design]",
+              "RelativeToolTip": "Connect.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T11:33:47.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Downloads\\Client ZOHAR 11.2\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\IMOE001\\Downloads\\Client ZOHAR 11.2\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-05T08:47:04.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Connect.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\IMOE001\\Downloads\\Client ZOHAR 11.2\\Connect.Designer.cs",
+              "RelativeDocumentMoniker": "Connect.Designer.cs",
+              "ToolTip": "C:\\Users\\IMOE001\\Downloads\\Client ZOHAR 11.2\\Connect.Designer.cs",
+              "RelativeToolTip": "Connect.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T07:22:26.393Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
